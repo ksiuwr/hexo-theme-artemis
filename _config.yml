@@ -8,7 +8,6 @@ menu:
   RSS: /atom.xml
 
 favicon: /favicon.png
-logo: /logo.png
 
 # Comment
 # e.g disqus: seansun
@@ -20,6 +19,6 @@ google_analytics:
 
 # Copyright Infomation
 copyright:
-  since:
-  name:
-  url:
+  since: 2019
+  name: Jakub Szczerbiński
+  url: ksi.cs.uni.wroc.pl
